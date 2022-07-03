@@ -1,0 +1,9 @@
+#+TITLE: Love Emacs
+
+A lovely starting point for your emacs journey. ~love-emacs~ is a simple emacs
+configuration made with love by those that love emacs. This repository makes for
+a great starting point for those begin their journey into the ultimate text
+editor and is also a great base configuration for those that want to hack away
+at it make it their own.
+
+[[./screenshots/main_screenshot.png]]
